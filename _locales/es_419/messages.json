@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Movie Maker MovieStudio Editor de vídeo"
+  },
+  "description": {
+    "message": "Movie Maker en línea para crear, editar y grabar vídeos, y añadir vídeos, audios, imágenes y textos"
+  },
+  "new_creapp": {
+    "message": "Abrir MovieStudio Movie Maker"
+  }
+}
